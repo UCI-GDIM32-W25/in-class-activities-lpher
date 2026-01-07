@@ -1,13 +1,24 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## W1
+### Activity 1
+Our group came up with several tips:
+1. First build is longest, more building, easier to build, build as early as possible.
+2. Turn in something on time rather than nothing, you can work on it after and turn it in a day late and still receive an A.
+3. Work on it if only for a couple minutes. Something is better than nothing. 
+4. Go to office hours once every week or every other week.
+5. Ask on discord “Questions” channel, questions you have may already be answered.
+6. Playtest your own game more. Don’t be afraid to ask people to playtest your game.
 
+### Activity 2
+1. Value of x is 10
+2. Value of x is 2
+3. In the PrivateMessage () method, “hello world” is put in the console every frame because of the update method
+4. Monobehaviour
+5. At the start of the game, assigns 10 to x and therefore shows “x = 10” in the console
+6. 10 is argument, int x is parameter 
+7. There is no object in front of translate. Translate only works on object. Translate is being called on a class name
+8. Use _playerTransform variable
 
-Hit enter TWICE to create a new line.
+### Activity 3
+[MG1 breakdown Google doc](https://docs.google.com/document/d/1ItG4dZjoaa4lzg4txGNIlp00ONVVm-BPawFd5McfTTc/edit?usp=sharing)
 
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
