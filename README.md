@@ -6,15 +6,15 @@ Our group came up with several tips:
 2. Turn in something on time rather than nothing, you can work on it after and turn it in a day late and still receive an A.
 3. Work on it if only for a couple minutes. Something is better than nothing. 
 4. Go to office hours once every week or every other week.
-5. Ask on discord ìQuestionsî channel, questions you have may already be answered.
-6. Playtest your own game more. Donít be afraid to ask people to playtest your game.
+5. Ask on discord ‚ÄúQuestions‚Äù channel, questions you have may already be answered.
+6. Playtest your own game more. Don‚Äôt be afraid to ask people to playtest your game.
 
 ### Activity 2
 1. Value of x is 10
 2. Value of x is 2
-3. In the PrivateMessage () method, ìhello worldî is put in the console every frame because of the update method
+3. In the PrivateMessage () method, ‚Äúhello world‚Äù is put in the console every frame because of the update method
 4. Monobehaviour
-5. At the start of the game, assigns 10 to x and therefore shows ìx = 10î in the console
+5. At the start of the game, assigns 10 to x and therefore shows ‚Äúx = 10‚Äù in the console
 6. 10 is argument, int x is parameter 
 7. There is no object in front of translate. Translate only works on object. Translate is being called on a class name
 8. Use _playerTransform variable
@@ -24,6 +24,7 @@ Our group came up with several tips:
 
 ## W2
 ### Activity 1
+![20260113_175851](https://github.com/user-attachments/assets/d9a4a8cc-f323-445c-acef-587e3ce79052)
 
 
 ### Activity 2
