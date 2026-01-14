@@ -28,3 +28,5 @@ Our group came up with several tips:
 
 
 ### Activity 2
+[MG2 Repository Link](https://github.com/UCI-GDIM32-W25/mg2-lpher/commit/dc6def181d67887701e29f6e3420baf6a5f651a9)
+I worked on setting up the game objects first, follwed by creating a script for the penguin as I wanted to work on player movement before anything else. For the game objects I set up their respective components like colliders for the floor, player, and coin. To create the core mechanic of the penguin jumping, I created an if statement for when ever the player presses down on the SPACE key.
