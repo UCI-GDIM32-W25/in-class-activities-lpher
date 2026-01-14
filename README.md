@@ -22,3 +22,8 @@ Our group came up with several tips:
 ### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1ItG4dZjoaa4lzg4txGNIlp00ONVVm-BPawFd5McfTTc/edit?usp=sharing)
 
+## W2
+### Activity 1
+
+
+### Activity 2
