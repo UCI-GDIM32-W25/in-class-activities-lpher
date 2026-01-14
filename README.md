@@ -24,8 +24,7 @@ Our group came up with several tips:
 
 ## W2
 ### Activity 1
-![20260113_175851](https://github.com/user-attachments/assets/d9a4a8cc-f323-445c-acef-587e3ce79052)
-
+![20260113_193832](https://github.com/user-attachments/assets/95b54b45-2923-4ded-be69-7397d442d1c2)
 
 ### Activity 2
 [MG2 Repository Link](https://github.com/UCI-GDIM32-W25/mg2-lpher/commit/dc6def181d67887701e29f6e3420baf6a5f651a9)
