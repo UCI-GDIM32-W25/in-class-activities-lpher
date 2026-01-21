@@ -34,3 +34,5 @@ I worked on setting up the game objects first, follwed by creating a script for 
 ## W3
 ### Activity 1-2
 My partner is Milla.
+
+### Activity 3
