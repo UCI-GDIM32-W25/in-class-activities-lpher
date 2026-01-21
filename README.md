@@ -36,3 +36,4 @@ I worked on setting up the game objects first, follwed by creating a script for 
 My partner is Milla.
 
 ### Activity 3
+![20260120_191621](https://github.com/user-attachments/assets/9d7d492a-5ec3-4b73-840f-ee275180f09f)
