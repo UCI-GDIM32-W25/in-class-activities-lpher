@@ -46,7 +46,7 @@ My partner is Milla.
 The Locator objects all get deleted except for the most recent one when the game is ran. This happens because of the if statement in the awake method where it destroys all Locator game objects except one.
 
 ### Activity 2
-Add image here.
+![20260127_192748](https://github.com/user-attachments/assets/98ce4fed-1a3c-468d-a282-9784230cf91c)
 
 ### Activity 3
 [MG4 Repository Link](https://github.com/lpher/mg4-lpher/commit/ced861293211d319043b9fa6b5b689f7e4bb75ff)
