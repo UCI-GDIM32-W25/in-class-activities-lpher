@@ -37,3 +37,10 @@ My partner is Milla.
 
 ### Activity 3
 ![20260120_191621](https://github.com/user-attachments/assets/9d7d492a-5ec3-4b73-840f-ee275180f09f)
+
+## W4
+### Activity 0
+My partner is Milla.
+
+### Activity 1
+The Locator objects all get deleted except for the most recent one when the game is ran. This happens because of the if statement in the awake method where it destroys all Locator game objects except one.
