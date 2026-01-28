@@ -44,3 +44,11 @@ My partner is Milla.
 
 ### Activity 1
 The Locator objects all get deleted except for the most recent one when the game is ran. This happens because of the if statement in the awake method where it destroys all Locator game objects except one.
+
+### Activity 2
+Add image here.
+
+### Activity 3
+[MG4 Repository Link](https://github.com/lpher/mg4-lpher/commit/ced861293211d319043b9fa6b5b689f7e4bb75ff)
+
+I worked on setting up the basis of the game with a ground game object and a player gameobject with colliders and a rigidbody for the player to make to fall. I also created a player script so that the player game object can jump.
