@@ -52,3 +52,34 @@ The Locator objects all get deleted except for the most recent one when the game
 [MG4 Repository Link](https://github.com/lpher/mg4-lpher/commit/ced861293211d319043b9fa6b5b689f7e4bb75ff)
 
 I worked on setting up the basis of the game with a ground game object and a player gameobject with colliders and a rigidbody for the player to make to fall. I also created a player script so that the player game object can jump.
+
+## W5
+### Activity 1
+I don’t feel fully comfortable or confident with interfaces and abstract classes yet, so I think as concepts they are complicated and confusing. I had to keep glancing back at the week 5 pre-learning slides to fix the code. Because of this I would keep this design rather than changing it because if it works then it works. This feels like the safest thing to do.
+
+### Activity 2 (Be more specific here)
+The Model is represented by the classes EnemyStats and ItemW5Demo2, which store game data such as the names, dialogue lines, and item information without containing any UI or input logic. The View is represented by the classes DialogueBubble and InventoryUI, which handle the displaying of information to the player such as the dialogue text and inventory contents. The Controllers are represented by the classes EnemyW5Demo2 and PlayerW5Demo2 as they contain the logic that reacts to player input and game state such as checking player distance or keyboard input, using that logic to decide when to update the Views using data from the Models.
+
+### Activity 3
+#### Scenario 1
+Beats would be prefabs. Allows transform and sprite. Scriptable data describing where in the song has to be hit. 
+
+#### Scenario 2
+The stats and data about abilities would be the model. Gameplay code carrying our abilities would be the controller. The view is the UI for activating the ability and any visual results.
+
+#### Scenario 3
+States useful to plants or players. Players could have different mining or planting behavior having enums for each behavior/state. Enums and states can be used for the plant's growth state like a sapling to a tree. States are better for web or circle than linear progression.
+
+### Activity 4
+Attendance: Rebecca Feng, Frances Nareh Kim, and Landon Peev Xwm Her.
+
+[Proposal Draft Doc Link](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
+
+## W6
+### Activity 1
+[Demo Notes and Project Usefulness](https://docs.google.com/document/d/1QVWgpU_2Zar1QHjAMIz1v_bz12q1Gy1lPDye7t7_sV8/edit?usp=sharing)
+
+### Activity 2
+Attendance: Nansong Sun and Landon Her. Rebecca Feng and Frances Nareh Kim attended VGDC's Game Developer's Week.
+
+[Proposal Final Draft Doc Link](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
