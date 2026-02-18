@@ -97,10 +97,12 @@ Attendance: Nansong Sun and Landon Her. Rebecca Feng and Frances Nareh Kim atten
 - Spherecast looks at area within a sphere instead of a single point a raycast would give
 
 ### Activity 2
-Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her
+Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her, Nansong Sun
 
 ### Actvity 3
 
+
 ### Activity 4
+[Nerd Cluster Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?gid=0#gid=0)
 
 ### Activity 5
