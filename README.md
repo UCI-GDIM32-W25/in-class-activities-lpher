@@ -100,7 +100,7 @@ Attendance: Nansong Sun and Landon Her. Rebecca Feng and Frances Nareh Kim atten
 Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her, Nansong Sun
 
 ### Actvity 3
-
+![W7 Final Break down](https://github.com/user-attachments/assets/caa4669d-d8b6-4470-9f2a-d082668dd62c)
 
 ### Activity 4
 [Nerd Cluster Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?gid=0#gid=0)
