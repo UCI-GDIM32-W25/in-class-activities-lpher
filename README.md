@@ -83,3 +83,20 @@ Attendance: Rebecca Feng, Frances Nareh Kim, and Landon Peev Xwm Her.
 Attendance: Nansong Sun and Landon Her. Rebecca Feng and Frances Nareh Kim attended VGDC's Game Developer's Week.
 
 [Proposal Final Draft Doc Link](https://docs.google.com/document/d/12oXcMbRqu-4vIfI7XU0rpLQhKyyF9Gy7RNBljYCJIrA/edit?usp=sharing)
+
+## W7
+### Activity 1
+- State machine useful cause there are two mutually exclusive states that cannot occur at the same time and can switch between states
+- Can also control animations, effects, and UI
+- Not separating states makes things confusing
+- Vector used to determine line of sight to player
+- Raycast throwing a ray into scene and seeing if it hits something
+- Can edit its distance with parameters
+- Raycast returns true or false
+- If it hits something is will go into brackets where it will check if what it hit was the player
+- Spherecast looks at area within a sphere instead of a single point a raycast would give
+
+### Activity 2
+Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her
+
+### Actvity 3
