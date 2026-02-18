@@ -106,3 +106,6 @@ Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her, Nansong Sun
 [Nerd Cluster Tasks](https://docs.google.com/spreadsheets/d/1Zv6t-jtaA3FyTzVV6nuGgsbLFK90LGVoSos6l5H0YpU/edit?gid=0#gid=0)
 
 ### Activity 5
+[Link to commit](https://github.com/fnkim/GDIM32-Final/commit/8be31b8858de53b0ce40e16265d7556ebf7fdd26)
+
+I worked on setting up the relevant scripts for interacting with the NPC like creating an interface and NPCInteractable script.
