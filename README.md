@@ -100,3 +100,7 @@ Attendance: Nansong Sun and Landon Her. Rebecca Feng and Frances Nareh Kim atten
 Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her
 
 ### Actvity 3
+
+### Activity 4
+
+### Activity 5
