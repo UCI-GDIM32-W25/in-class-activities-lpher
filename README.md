@@ -109,3 +109,23 @@ Attendance: Frances Nareh Kim, Rebecca Feng, Landon Her, Nansong Sun
 [Link to commit](https://github.com/fnkim/GDIM32-Final/commit/8be31b8858de53b0ce40e16265d7556ebf7fdd26)
 
 I worked on setting up the relevant scripts for interacting with the NPC like creating an interface and NPCInteractable script.
+
+## W8
+### Activity 1
+[Link to notes](https://docs.google.com/document/d/1kwq0lncgKlYPhijyUintmYz82RqB7xJk85kvjfjFRWs/edit?usp=sharing)
+
+### Activity 2
+Rebecca Feng, Frances Nareh Kim, Landon Her
+
+### Activity 3
+- Wondering if they get to interact with certain things (things that pop out from the environment)
+- Didn't know how and if they collected the bushes (put some notifier of collection like sound or visual effect)
+- Good perspective
+- Likeable aesthetics
+- "I love the transgender color palette"
+- Nice movement
+
+### Activity 4
+Right now I have the interact prompt working and a log in the console when the player interacts with it. I'm going to try to get a speech bubble to appear at the bottom of the screen in the scene today instead of having a debug log.
+
+### Activity 5
