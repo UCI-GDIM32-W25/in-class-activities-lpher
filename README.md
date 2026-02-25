@@ -129,3 +129,4 @@ Rebecca Feng, Frances Nareh Kim, Landon Her
 Right now I have the interact prompt working and a log in the console when the player interacts with it. I'm going to try to get a speech bubble to appear at the bottom of the screen in the scene today instead of having a debug log.
 
 ### Activity 5
+[Commit link](https://github.com/fnkim/GDIM32-Final/commit/57c7425c543fa5becba6887420be2b2cb1fd7dd1)
