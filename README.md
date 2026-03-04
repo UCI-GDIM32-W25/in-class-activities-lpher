@@ -146,3 +146,13 @@ Right now I have the interact prompt working and a log in the console when the p
 Attendance: Rebecca Feng, Landon Her
 
 ### Activity 3
+- Clicking to advance cutscene is clear
+- Advancing dialgue by pressing E is clear
+- Player did not know they could open their inventory with tab
+- Unclear whether list under candy tart image are ingredients or items you already have
+- Strawberry icon isn't clearly recognizeable as a strawberry
+- Worm isn't clearly recognizeable and could not see it has an animation
+- Collecting is enjoyable
+
+### Activity 4
+The interact prompts show up and can be interacted with to show speech bubbles and collect items. However, there is no branching dialogue for the player to choose between at this moment and all of the collectables aren't interactable yet and have no function or purpose. I think we're under being halfway done. This says a lot about our under developed management plan. While we did note what tasks we were responsible for, we didn't put any deadlines for ourselves which could've helped speed things along and keep us focused.
