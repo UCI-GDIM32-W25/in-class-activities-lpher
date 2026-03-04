@@ -130,3 +130,19 @@ Right now I have the interact prompt working and a log in the console when the p
 
 ### Activity 5
 [Commit link](https://github.com/fnkim/GDIM32-Final/commit/57c7425c543fa5becba6887420be2b2cb1fd7dd1)
+
+## W9
+### Activity 1
+- Architectural solution scales well when:
+-- Programs handles a lot of data well
+-- Is preformant
+-- Is easy for users to add more data 
+- Scaling matters when you work on large projects
+- Must be able to talk about how solutions will be performant and easy for users
+- Concept of scaling well is tied to all the design patterns we learned throughout GDIM 32
+- Can have returnable dialogue nodes so conversations don’t go on forever
+
+### Activity 2
+Attendance: Rebecca Feng, Landon Her
+
+### Activity 3
