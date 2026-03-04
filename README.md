@@ -156,3 +156,8 @@ Attendance: Rebecca Feng, Landon Her
 
 ### Activity 4
 The interact prompts show up and can be interacted with to show speech bubbles and collect items. However, there is no branching dialogue for the player to choose between at this moment and all of the collectables aren't interactable yet and have no function or purpose. I think we're under being halfway done. This says a lot about our under developed management plan. While we did note what tasks we were responsible for, we didn't put any deadlines for ourselves which could've helped speed things along and keep us focused.
+
+### Activity 5
+[Commit Link](https://github.com/fnkim/Nerds-Cluster-Final/commit/ecc5874b5c642b4fab981edf73279a8ddbe07f25)
+
+I edited the text of the inventory recipe pnale to make it more self explanatory. I created a ui panel letting players know they can press tab to open and close their inventory. I added code to make playerinteractor recognize the pressTabPanel and deactivate it when pressing tab and activating it again when pressing tab again. Having the pressTabPanel active as default and inventory panel deactive as default ensures they don't overlap when tab is pressed.
