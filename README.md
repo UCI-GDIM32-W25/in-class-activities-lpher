@@ -167,3 +167,18 @@ I edited the text of the inventory recipe pnale to make it more self explanatory
 Attendance: Rebecca Feng, Landon Her, Frances Nareh Kim
 
 ### Activity 2
+- confusion due to the game being incomplete; playtesters tried doing stuff that wasn't implemented yet. For example, they tried to catch the worm but couldn't.
+- Good responses to the cutscene
+- Collecting is satisfying? Playtesters kept trying to collect every object
+- Sprinting ability would be nice
+- Adjust border to be more intuitive. Some of the colliders are in odd places
+- Change the UI to make it match better (also due to game being incomplete)
+- Change the beginning cutscene to progress through button rather than clicking since mouse clicks are not utilized anywhere else
+
+### Activity 3
+The basic structure for the game is done. We have basic systems for dialogue, branching dialogue, and collectables. We need to expand what collectables can be collected and touch up the dialogue system more. Additionally, we need to create a system to select specific collectables and put them in the oven to create the candy tart, adding it to your inventory. After that, we just need to finish setting up the ending to the dialogue and quest system and I think thats all we have to do left. I'd say we've progressed far but a little under than expected with the amount of time we have left.
+
+### Activity 4
+[Commit Link.](https://github.com/fnkim/Nerds-Cluster-Final/commit/d980e186331a04eea4298f2fa599b52cc4a6d1a9)
+
+I created a new script for the oven inventory based on the existing player inventory. I also added a script to easily change the color of the mesh for the worm if needed.
