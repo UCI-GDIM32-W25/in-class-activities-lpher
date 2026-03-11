@@ -161,3 +161,9 @@ The interact prompts show up and can be interacted with to show speech bubbles a
 [Commit Link](https://github.com/fnkim/Nerds-Cluster-Final/commit/ecc5874b5c642b4fab981edf73279a8ddbe07f25)
 
 I edited the text of the inventory recipe pnale to make it more self explanatory. I created a ui panel letting players know they can press tab to open and close their inventory. I added code to make playerinteractor recognize the pressTabPanel and deactivate it when pressing tab and activating it again when pressing tab again. Having the pressTabPanel active as default and inventory panel deactive as default ensures they don't overlap when tab is pressed.
+
+## W10
+### Activity 1
+Attendance: Rebecca Feng, Landon Her, Frances Nareh Kim
+
+### Activity 2
